@@ -1,0 +1,1 @@
+https://huggingface.co/FredDYyy/mT5-base-translation-vi-en-jp-cn?text=<en>+Tôi+rất+thích+pizza%2C+tôi+ăn+pizza+hầu+như+mỗi+ngày
